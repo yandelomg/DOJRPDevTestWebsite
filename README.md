@@ -1,12 +1,15 @@
 <img src="image_2023-08-23_153332541.png" alt="DOJRPLogo">
 
 # This is a Test Website
-<img src="image_2023-08-23_154110323-removebg-preview.png" alt="Verified Post" size = 15px> 
+<h3>Verified Post</h3>
+<img src="image_2023-08-23_154110323-removebg-preview.png" alt="Verified Post" size = 15px>
+
 <p> This isn't a top notch Website its just a normal example website. </p>
 <abbr> Made by the Co-Founder of DOJRPDevelopment </abbr>
 
 
 # What is DOJRPDevelopment? 
+<h3>Verified Post</h3>
 <img src="image_2023-08-23_154110323-removebg-preview.png" alt="Verified Post" size = 15px>
 
 
