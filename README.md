@@ -1,3 +1,5 @@
+<img src="image_2023-08-23_153332541.png" alt="DOJRPLogo">
+
 # This is a Test Website
 
 <p> This isn't a top notch Website its just a normal example website. </p>
