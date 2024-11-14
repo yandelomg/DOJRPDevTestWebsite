@@ -22,3 +22,6 @@
 <p> YouTube Channels for both Developers:</p>
 <a href="https://youtube.com/yandelomg">youtube.com/yandelomg</a>
 <a href="https://youtube.com/@FaZeDaruing">youtube.com/fazedaruing</a>
+<br>
+<p> Follow the DOJRP Development Twitter:</p>
+<a href="https://twitter.com/@dojrpdev2">twitter.com/dojrpdev2</a>
