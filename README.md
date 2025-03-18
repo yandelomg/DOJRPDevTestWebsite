@@ -1,4 +1,4 @@
-<img src="FallLogo(BeforeConverted).png" alt="DOJRPLogo">
+<img src="DOJRPDev2024SpringLogo.png" alt="DOJRPLogo">
 
 # This is a Test Website
 <h3>Verified Post</h3>
