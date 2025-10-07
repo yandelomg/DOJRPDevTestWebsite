@@ -1,4 +1,4 @@
-<img src="DOJRPDevelopmentSpringLogo25.png" alt="DOJRPLogo">
+<img src="SilverFrameInteractiveLogo.png" alt="Silverframe Interactive Logo">
 
 # This is a Test Website
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="10" height="10">
