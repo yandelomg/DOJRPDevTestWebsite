@@ -1,4 +1,4 @@
-<img src="SilverframeInteractiveWinterLogo2025.png" alt="Silverframe Interactive Logo">
+<img src="SilverframeInteractiveWinterLogo2025.png" alt="Silverframe Interactive Logo" width="10" height="10">
 
 # This is a Test Website
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="10" height="10">
